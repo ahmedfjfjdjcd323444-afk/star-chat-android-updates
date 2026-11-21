@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
-  "released_at": "2026-11-21T18:42:28Z",
+  "version": "1.0.2",
+  "released_at": "2026-11-21T20:09:41Z",
   "grace_days": 3,
-  "apk_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-android-updates/releases/download/v1.0.1/StarChat-Android.apk",
+  "apk_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-android-updates/releases/download/v1.0.2/StarChat-Android.apk",
   "apk_name": "StarChat-Android.apk",
-  "sha256": "a2868f1d43c302058bc7bc29e405cef04118caabf64ed3b9f9fc7b2a44220fea",
-  "changelog": "الإصدار 1.0.1: إضافة إرفاق الملفات (نفس سلسلة الرفع: Catbox دائم ثم Filebin) مع تنزيل الملفات المستلمة إلى مجلد التطبيق + التحديث التلقائي عند الدخول بنفس نظام الويندوز: مهلة 3 أيام ثم تحديث إجباري"
+  "sha256": "8ca8c394396733115dfc54b17f57ea6166f157590d8aceb28ad641deee6f8b60",
+  "changelog": "إصلاح مهم لقارئ الشاشة (TalkBack): واجهة النظام الأصلية بالكامل - تنقل بالسحب، نقرة مزدوجة، إعلانات صوتية لكل رسالة وحالة. إضافة خيار الانتقال إلى الرسالة الأصلية. باقي الميزات كما هي: الإرفاق، التحديث التلقائي الإجباري."
 }
