@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0",
-  "released_at": "2026-11-21T16:03:47Z",
+  "version": "1.0.1",
+  "released_at": "2026-11-21T18:42:28Z",
   "grace_days": 3,
-  "apk_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-android-updates/releases/download/v1.0.0/StarChat-Android.apk",
+  "apk_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-android-updates/releases/download/v1.0.1/StarChat-Android.apk",
   "apk_name": "StarChat-Android.apk",
-  "sha256": "b7d77c8a2f8dd4f3177375a665efb094ce5226e9addedbd823f23dcfce70f772",
-  "changelog": "الإصدار الأول من Star Chat لأندرويد: دخول وتسجيل، محادثة جماعية وخاصة مع تحديث فوري، الأصدقاء وطلبات الصداقة، رسائل صوتية، رد على الرسائل، عربي/إنجليزي، وتحديث تلقائي داخل التطبيق"
+  "sha256": "a2868f1d43c302058bc7bc29e405cef04118caabf64ed3b9f9fc7b2a44220fea",
+  "changelog": "الإصدار 1.0.1: إضافة إرفاق الملفات (نفس سلسلة الرفع: Catbox دائم ثم Filebin) مع تنزيل الملفات المستلمة إلى مجلد التطبيق + التحديث التلقائي عند الدخول بنفس نظام الويندوز: مهلة 3 أيام ثم تحديث إجباري"
 }
